@@ -1,0 +1,16 @@
+.app {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.app h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.6rem;
+  font-weight: 650;
+}
+
+.app__lede {
+  margin: 0 0 1.5rem;
+  color: #9aa3b2;
+}
